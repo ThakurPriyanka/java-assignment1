@@ -1,4 +1,0 @@
-hello hi
-hello hi
-hello
-then
